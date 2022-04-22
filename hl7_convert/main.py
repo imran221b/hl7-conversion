@@ -23,3 +23,4 @@ def tojson(input, output):
     if output:
         output.write(string_f + "\n")
     click.echo(string_f)
+

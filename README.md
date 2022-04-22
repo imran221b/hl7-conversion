@@ -1,7 +1,7 @@
 HL7 to JSON Format Converter
 ==================================
 
-Convert HL7 messages to JSON format. 
+A python package to convert HL7 messages to JSON format. 
 
 Installation from source
 -------------------

@@ -1,7 +1,7 @@
 HL7 to JSON Format Converter
 ==================================
 
-A Python library to convert HL7 v2 messages to JSON format. 
+A Python package to convert HL7 v2 messages to JSON format. 
 
 Installation from source
 -------------------
@@ -18,7 +18,7 @@ Create and activate python virtual env:
     source .venv/bin/activate
     pip install --upgrade pip
 
-Install hl7-conversion library:
+Install hl7-conversion package:
     
     pip install -e .
 

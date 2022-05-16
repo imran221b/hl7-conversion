@@ -7,11 +7,11 @@ HERE = pathlib.Path(__file__).resolve().parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name="hl7-hl7_convert",
+    name="hl7-conversion",
     version="0.1.0",
     author="Imran Hasan",
     author_email="imran221b@gmail.com",
-    description="Package to hl7_convert HL7 messages to JSON format",
+    description="Package to convert HL7 messages to JSON format",
     long_description=README,
     long_description_content_type="text/markdown",
     license="MIT",

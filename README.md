@@ -3,6 +3,12 @@ HL7 to JSON Format Converter
 
 A Python package to convert HL7 v2 messages to JSON format. 
 
+Installation from pip
+-------------------
+This package is uploaded to PyPI as an open source contribution and can be installed using pip:
+
+    pip install hl7-conversion
+
 Installation from source
 -------------------
 

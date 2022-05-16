@@ -8,7 +8,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="hl7-conversion",
-    version="0.1.0",
+    version="0.1.1",
     author="Imran Hasan",
     author_email="imran221b@gmail.com",
     description="Package to convert HL7 messages to JSON format",
